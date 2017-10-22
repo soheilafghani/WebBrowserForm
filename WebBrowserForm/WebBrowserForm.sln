@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBrowserForm", "WebBrowserForm\WebBrowserForm.csproj", "{D69470BD-4946-4662-9D75-7B685CCC829D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistryManager", "RegistryManager\RegistryManager.csproj", "{1911F9DF-54E8-4D42-B877-6486DF9B0481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D69470BD-4946-4662-9D75-7B685CCC829D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69470BD-4946-4662-9D75-7B685CCC829D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69470BD-4946-4662-9D75-7B685CCC829D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69470BD-4946-4662-9D75-7B685CCC829D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1911F9DF-54E8-4D42-B877-6486DF9B0481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1911F9DF-54E8-4D42-B877-6486DF9B0481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1911F9DF-54E8-4D42-B877-6486DF9B0481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1911F9DF-54E8-4D42-B877-6486DF9B0481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

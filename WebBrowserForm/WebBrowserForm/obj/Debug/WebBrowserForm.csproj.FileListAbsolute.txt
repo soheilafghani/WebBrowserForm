@@ -1,0 +1,13 @@
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\bin\Debug\WebBrowserForm.exe.config
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\bin\Debug\WebBrowserForm.exe
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\bin\Debug\WebBrowserForm.pdb
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\obj\Debug\WebBrowserForm.WebBrowserForm.resources
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\obj\Debug\WebBrowserForm.Properties.Resources.resources
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\obj\Debug\WebBrowserForm.csproj.GenerateResource.Cache
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\obj\Debug\WebBrowserForm.exe
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\obj\Debug\WebBrowserForm.pdb
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\obj\Debug\WebBrowserForm.csprojResolveAssemblyReference.cache
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\bin\Debug\RegistryManager.dll
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\bin\Debug\RegistryManager.pdb
+C:\Users\Soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\bin\Debug\Icons\browser_icon.png
+C:\Users\Soheil\documents\visual studio 2017\Projects\WebBrowserForm\WebBrowserForm\bin\Debug\Icons\search_icon.png

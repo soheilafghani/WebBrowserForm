@@ -1,0 +1,5 @@
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\RegistryManager\bin\Debug\RegistryManager.dll
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\RegistryManager\bin\Debug\RegistryManager.pdb
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\RegistryManager\obj\Debug\RegistryManager.dll
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\RegistryManager\obj\Debug\RegistryManager.pdb
+c:\users\soheil\documents\visual studio 2017\Projects\WebBrowserForm\RegistryManager\obj\Debug\RegistryManager.csprojResolveAssemblyReference.cache
